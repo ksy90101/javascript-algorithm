@@ -6,4 +6,5 @@
 - [\[프로그래머스\] 모의고사](https://github.com/ksy90101/javascript-algorithm/tree/master/MockExam)
 - [\[프로그래머스\] k번째 수](https://github.com/ksy90101/javascript-algorithm/tree/master/kthNumber)
 - [\[프로그래머스\] 2016년](https://github.com/ksy90101/javascript-algorithm/tree/master/twothousandsixteenyear)
+- [\[프로그래머스\] 가운데 숫자 가져오기](https://github.com/ksy90101/javascript-algorithm/tree/master/getmiddlecharacter)
 - [\[프로그래머스\] 같은 숫자는 싫어](https://github.com/ksy90101/javascript-algorithm/tree/master/nosamenumber)
