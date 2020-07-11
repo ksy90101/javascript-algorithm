@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efb6896b-c179-478b-8249-d32c18dfd0b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/nosamenumber/noSameNumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dividingNumbersArray/dividingNumbersArray.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +86,9 @@
       <workItem from="1594083850243" duration="1858000" />
       <workItem from="1594268023199" duration="392000" />
       <workItem from="1594290022483" duration="41000" />
+      <workItem from="1594290403274" duration="1379000" />
+      <workItem from="1594460337491" duration="92000" />
+      <workItem from="1594461329211" duration="861000" />
     </task>
     <servers />
   </component>
@@ -108,6 +112,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1593532172750" />
+    <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594461480978">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1594461480978" />
     <state x="88" y="16" key="new project wizard" timestamp="1594085628724">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
