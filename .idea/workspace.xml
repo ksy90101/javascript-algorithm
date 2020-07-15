@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efb6896b-c179-478b-8249-d32c18dfd0b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mySortingString/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mySortingString/mySortingString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pAndYNumber/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pAndYNumber/pAndYNumber.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -63,6 +63,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pAndYNumber" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -93,7 +94,7 @@
       <workItem from="1594461329211" duration="861000" />
       <workItem from="1594462408167" duration="304000" />
       <workItem from="1594636904108" duration="741000" />
-      <workItem from="1594817229165" duration="859000" />
+      <workItem from="1594817229165" duration="1451000" />
     </task>
     <servers />
   </component>
@@ -113,14 +114,15 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593532172750">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594818619206">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.0.1280.720@0.0.1440.900" timestamp="1594818619206" />
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1593532172750" />
-    <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594817247938">
+    <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594818449074">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1440.0.1280.720@0.0.1440.900" timestamp="1594817247938" />
+    <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1440.0.1280.720@0.0.1440.900" timestamp="1594818449074" />
     <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1594461480978" />
     <state x="88" y="23" key="new project wizard" timestamp="1594637690331">
       <screen x="0" y="23" width="1440" height="823" />
