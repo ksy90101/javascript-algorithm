@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efb6896b-c179-478b-8249-d32c18dfd0b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/twoNumberBetweenSum/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twoNumberBetweenSum/twoNumberBetweenSum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mySortingString/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mySortingString/mySortingString.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +92,8 @@
       <workItem from="1594460337491" duration="92000" />
       <workItem from="1594461329211" duration="861000" />
       <workItem from="1594462408167" duration="304000" />
-      <workItem from="1594636904108" duration="328000" />
+      <workItem from="1594636904108" duration="741000" />
+      <workItem from="1594817229165" duration="859000" />
     </task>
     <servers />
   </component>
@@ -115,14 +117,16 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1593532172750" />
-    <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594461480978">
+    <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594817247938">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1440.0.1280.720@0.0.1440.900" timestamp="1594817247938" />
     <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1594461480978" />
-    <state x="88" y="16" key="new project wizard" timestamp="1594085628724">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="88" y="23" key="new project wizard" timestamp="1594637690331">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="88" y="16" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1594085628724" />
+    <state x="88" y="23" key="new project wizard/0.23.1440.823/1440.23.2304.1273@0.23.1440.823" timestamp="1594637690331" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1593531626889">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
