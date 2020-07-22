@@ -13,5 +13,5 @@
 - [\[프로그래머스\] 문자열 내 마음대로 정렬하기](https://github.com/ksy90101/javascript-algorithm/tree/master/mySortingString)
 - [\[프로그래머스\] 문자열 내 p와 y의 개수](https://github.com/ksy90101/javascript-algorithm/tree/master/pAndYNumber)
 - [\[프로그래머스\] 문자열 내림차순으로 정렬하기](https://github.com/ksy90101/javascript-algorithm/tree/master/stringSortDesc)
+- [\[프로그래머스\] 문자열 다루기 기본](https://github.com/ksy90101/javascript-algorithm/tree/master/basicString)
 - [\[프로그래머스\] 서울에서 김서방 찾기](https://github.com/ksy90101/javascript-algorithm/tree/master/findKimSeoul)
-
