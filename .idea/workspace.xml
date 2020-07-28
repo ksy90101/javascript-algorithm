@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efb6896b-c179-478b-8249-d32c18dfd0b8" name="Default Changelist" comment="" />
+    <list default="true" id="efb6896b-c179-478b-8249-d32c18dfd0b8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +60,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/subackSuback" />
       <recent name="$PROJECT_DIR$/pAndYNumber" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -94,6 +97,8 @@
       <workItem from="1595427862601" duration="1455000" />
       <workItem from="1595552361071" duration="4117000" />
       <workItem from="1595669518818" duration="1812000" />
+      <workItem from="1595775419951" duration="1227000" />
+      <workItem from="1595776904501" duration="38000" />
     </task>
     <servers />
   </component>
@@ -123,10 +128,11 @@
     </state>
     <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1440.0.1280.720@0.0.1440.900" timestamp="1594818449074" />
     <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1594461480978" />
-    <state x="88" y="23" key="new project wizard" timestamp="1594637690331">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state x="103" y="0" key="new project wizard" timestamp="1595775426603">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="88" y="16" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1594085628724" />
+    <state x="103" y="0" key="new project wizard/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1595775426603" />
     <state x="88" y="23" key="new project wizard/0.23.1440.823/1440.23.2304.1273@0.23.1440.823" timestamp="1594637690331" />
     <state x="449" y="229" width="782" height="789" key="search.everywhere.popup" timestamp="1595552652630">
       <screen x="0" y="0" width="1680" height="1050" />
