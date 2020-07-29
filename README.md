@@ -19,3 +19,4 @@
 - [\[프로그래머스\] 수박수박수박수박수박수?](https://github.com/ksy90101/javascript-algorithm/tree/master/subcakSuback)
 - [\[프로그래머스\] 문자열을 정수로 바꾸기](https://github.com/ksy90101/javascript-algorithm/tree/master/convertStringToInteger)
 - [\[프로그래머스\] 시저 암호](https://github.com/ksy90101/javascript-algorithm/tree/master/caesarCipher)
+- [\[프로그래머스\] 약수의 합](https://github.com/ksy90101/javascript-algorithm/tree/master/sumFactor)
