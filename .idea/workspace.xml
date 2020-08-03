@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efb6896b-c179-478b-8249-d32c18dfd0b8" name="Default Changelist" comment="" />
+    <list default="true" id="efb6896b-c179-478b-8249-d32c18dfd0b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/makeStrangeString/MakeStrangeString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/makeStrangeString/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +60,9 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -63,6 +71,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -98,11 +107,13 @@
       <workItem from="1595775419951" duration="1227000" />
       <workItem from="1595776904501" duration="38000" />
       <workItem from="1595942931981" duration="1929000" />
+      <workItem from="1595995548365" duration="1190000" />
+      <workItem from="1596462050184" duration="568000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -127,12 +138,17 @@
     </state>
     <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1440.0.1280.720@0.0.1440.900" timestamp="1594818449074" />
     <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1594461480978" />
-    <state x="103" y="0" key="new project wizard" timestamp="1595775426603">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="2128" y="121" key="SettingsEditor" timestamp="1596462131877">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2128" y="121" key="SettingsEditor/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1596462131877" />
+    <state x="103" y="23" key="new project wizard" timestamp="1595995557026">
+      <screen x="0" y="23" width="1680" height="977" />
     </state>
     <state x="88" y="16" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1594085628724" />
     <state x="103" y="0" key="new project wizard/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1595775426603" />
     <state x="88" y="23" key="new project wizard/0.23.1440.823/1440.23.2304.1273@0.23.1440.823" timestamp="1594637690331" />
+    <state x="103" y="23" key="new project wizard/0.23.1680.977@0.23.1680.977" timestamp="1595995557026" />
     <state x="449" y="229" width="782" height="789" key="search.everywhere.popup" timestamp="1595552652630">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
