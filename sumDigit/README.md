@@ -20,6 +20,8 @@ N | answer
 - 입출력 예 #2
     - 9 + 8 + 7 = 24이므로 24를 return 하면 됩니다.
     
+## 정답 코드
+
 ```javascript
 function solution(n)
 {

@@ -22,3 +22,4 @@
 - [\[프로그래머스\] 약수의 합](https://github.com/ksy90101/javascript-algorithm/tree/master/sumFactor)
 - [\[프로그래머스\] 이상한 문자 만들기](https://github.com/ksy90101/javascript-algorithm/tree/master/makeStrangeString)
 - [\[프로그래머스\] 자릿수 더하기](https://github.com/ksy90101/javascript-algorithm/tree/master/sumDigit)
+- [\[프로그래머스\] 자연수 뒤집어 배열로 만들기](https://github.com/ksy90101/javascript-algorithm/tree/master/numberReverseArray)
