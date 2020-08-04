@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efb6896b-c179-478b-8249-d32c18dfd0b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/makeStrangeString/MakeStrangeString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/makeStrangeString/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sumDigit/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sumDigit/SumDigit.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -71,6 +71,19 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -108,7 +121,8 @@
       <workItem from="1595776904501" duration="38000" />
       <workItem from="1595942931981" duration="1929000" />
       <workItem from="1595995548365" duration="1190000" />
-      <workItem from="1596462050184" duration="568000" />
+      <workItem from="1596462050184" duration="911000" />
+      <workItem from="1596541141351" duration="308000" />
     </task>
     <servers />
   </component>
