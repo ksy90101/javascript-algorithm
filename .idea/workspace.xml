@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efb6896b-c179-478b-8249-d32c18dfd0b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/numberReverseArray/NumberReverseArray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numberReverseArray/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderNumberDesc/OrderNumberDesc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderNumberDesc/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sumDigit/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/sumDigit/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +111,8 @@
       <workItem from="1595995548365" duration="1190000" />
       <workItem from="1596462050184" duration="911000" />
       <workItem from="1596541141351" duration="784000" />
-      <workItem from="1596542607177" duration="58000" />
+      <workItem from="1596542607177" duration="206000" />
+      <workItem from="1596852791086" duration="431000" />
     </task>
     <servers />
   </component>
