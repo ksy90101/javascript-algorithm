@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efb6896b-c179-478b-8249-d32c18dfd0b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/orderNumberDesc/OrderNumberDesc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orderNumberDesc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/number_square_root/NumberSquareRoot.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +110,8 @@
       <workItem from="1596462050184" duration="911000" />
       <workItem from="1596541141351" duration="784000" />
       <workItem from="1596542607177" duration="206000" />
-      <workItem from="1596852791086" duration="431000" />
+      <workItem from="1596852791086" duration="607000" />
+      <workItem from="1596954852676" duration="313000" />
     </task>
     <servers />
   </component>
@@ -137,11 +136,12 @@
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.0.1280.720@0.0.1440.900" timestamp="1594818619206" />
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1593532172750" />
-    <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594818449074">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="466" y="292" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596958855590">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1440.0.1280.720@0.0.1440.900" timestamp="1594818449074" />
     <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1594461480978" />
+    <state x="466" y="292" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1596958855590" />
     <state x="2128" y="121" key="SettingsEditor" timestamp="1596462131877">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>

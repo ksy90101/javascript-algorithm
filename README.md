@@ -24,3 +24,4 @@
 - [\[프로그래머스\] 자릿수 더하기](https://github.com/ksy90101/javascript-algorithm/tree/master/sumDigit)
 - [\[프로그래머스\] 자연수 뒤집어 배열로 만들기](https://github.com/ksy90101/javascript-algorithm/tree/master/numberReverseArray)
 - [\[프로그래머스\] 정수 내림차순으로 배치하기](https://github.com/ksy90101/javascript-algorithm/tree/master/orderNumberDesc)
+- [\[프로그래머스\] 정수 제곱근 판별](https://github.com/ksy90101/javascript-algorithm/tree/master/number_square_root)
