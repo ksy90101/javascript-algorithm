@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efb6896b-c179-478b-8249-d32c18dfd0b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/even_and_odd/EvenAndOdd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/even_and_odd/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +115,7 @@
       <workItem from="1596852791086" duration="607000" />
       <workItem from="1596954852676" duration="623000" />
       <workItem from="1599110608956" duration="2639000" />
-      <workItem from="1599140736441" duration="2205000" />
+      <workItem from="1599140736441" duration="2233000" />
     </task>
     <servers />
   </component>
