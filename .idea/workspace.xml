@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efb6896b-c179-478b-8249-d32c18dfd0b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/number_square_root/NumberSquareRoot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/remove_smallest_number/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/remove_smallest_number/RemoveSmallestNumber.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +49,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -61,9 +65,11 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/remove_smallest_number" />
       <recent name="$PROJECT_DIR$/numberReverseArray" />
       <recent name="$PROJECT_DIR$/subackSuback" />
       <recent name="$PROJECT_DIR$/pAndYNumber" />
@@ -111,7 +117,9 @@
       <workItem from="1596541141351" duration="784000" />
       <workItem from="1596542607177" duration="206000" />
       <workItem from="1596852791086" duration="607000" />
-      <workItem from="1596954852676" duration="313000" />
+      <workItem from="1596954852676" duration="623000" />
+      <workItem from="1599110608956" duration="2639000" />
+      <workItem from="1599140736441" duration="1377000" />
     </task>
     <servers />
   </component>
@@ -131,6 +139,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="568" y="127" key="#JavaScript" timestamp="1599110849225">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="568" y="127" key="#JavaScript/0.23.1680.949@0.23.1680.949" timestamp="1599110849225" />
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594818619206">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
