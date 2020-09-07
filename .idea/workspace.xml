@@ -20,7 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efb6896b-c179-478b-8249-d32c18dfd0b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pushing_keypad/PushingKeyPad.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pushing_keypad/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/remove_smallest_number/RemoveSmallestNumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/remove_smallest_number/RemoveSmallestNumber.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stringSortDesc/StringSortDesc.js" beforeDir="false" afterPath="$PROJECT_DIR$/stringSortDesc/StringSortDesc.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +64,12 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -71,6 +80,19 @@
       <recent name="$PROJECT_DIR$/pAndYNumber" />
       <recent name="$PROJECT_DIR$" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -115,7 +137,8 @@
       <workItem from="1596852791086" duration="607000" />
       <workItem from="1596954852676" duration="623000" />
       <workItem from="1599110608956" duration="2639000" />
-      <workItem from="1599140736441" duration="2233000" />
+      <workItem from="1599140736441" duration="2598000" />
+      <workItem from="1599447016544" duration="1583000" />
     </task>
     <servers />
   </component>
@@ -139,21 +162,23 @@
       <screen x="0" y="23" width="1680" height="949" />
     </state>
     <state x="568" y="127" key="#JavaScript/0.23.1680.949@0.23.1680.949" timestamp="1599110849225" />
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594818619206">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="215" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599447552777">
+      <screen x="0" y="23" width="1680" height="949" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.0.1280.720@0.0.1440.900" timestamp="1594818619206" />
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1593532172750" />
+    <state x="215" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.949@0.23.1680.949" timestamp="1599447552777" />
     <state x="466" y="292" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596958855590">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1440.0.1280.720@0.0.1440.900" timestamp="1594818449074" />
     <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1594461480978" />
     <state x="466" y="292" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1596958855590" />
-    <state x="2128" y="121" key="SettingsEditor" timestamp="1596462131877">
-      <screen x="1680" y="0" width="1920" height="1080" />
+    <state x="392" y="129" key="SettingsEditor" timestamp="1599448590298">
+      <screen x="0" y="23" width="1680" height="949" />
     </state>
     <state x="2128" y="121" key="SettingsEditor/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1596462131877" />
+    <state x="392" y="129" key="SettingsEditor/0.23.1680.949@0.23.1680.949" timestamp="1599448590298" />
     <state x="103" y="0" key="new project wizard" timestamp="1596541600505">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
