@@ -28,3 +28,4 @@
 - [\[프로그래머스\] 제일 작은 수 제거하기](https://github.com/ksy90101/javascript-algorithm/tree/master/remove_smallest_number)
 - [\[프로그래머스\] 짝수와 홀수](https://github.com/ksy90101/javascript-algorithm/tree/master/even_and_odd)
 - [\[프로그래머스\] 키패드 누르기](https://github.com/ksy90101/javascript-algorithm/tree/master/pushing_keypad)
+- [\[프로그래머스\] 최대공약수와 최소공배수 구하기](https://github.com/ksy90101/javascript-algorithm/tree/master/gcd_and_lcm)

@@ -20,13 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efb6896b-c179-478b-8249-d32c18dfd0b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pushing_keypad/PushingKeyPad.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pushing_keypad/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gcd_and_lcm/GcdAndLcm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gcd_and_lcm/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remove_smallest_number/RemoveSmallestNumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/remove_smallest_number/RemoveSmallestNumber.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stringSortDesc/StringSortDesc.js" beforeDir="false" afterPath="$PROJECT_DIR$/stringSortDesc/StringSortDesc.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,25 +71,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gcd_and_lcm" />
       <recent name="$PROJECT_DIR$/remove_smallest_number" />
       <recent name="$PROJECT_DIR$/numberReverseArray" />
       <recent name="$PROJECT_DIR$/subackSuback" />
       <recent name="$PROJECT_DIR$/pAndYNumber" />
-      <recent name="$PROJECT_DIR$" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -138,7 +122,8 @@
       <workItem from="1596954852676" duration="623000" />
       <workItem from="1599110608956" duration="2639000" />
       <workItem from="1599140736441" duration="2598000" />
-      <workItem from="1599447016544" duration="1583000" />
+      <workItem from="1599447016544" duration="1803000" />
+      <workItem from="1599571541791" duration="1115000" />
     </task>
     <servers />
   </component>
@@ -168,12 +153,12 @@
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.0.1280.720@0.0.1440.900" timestamp="1594818619206" />
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1593532172750" />
     <state x="215" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.949@0.23.1680.949" timestamp="1599447552777" />
-    <state x="466" y="292" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596958855590">
+    <state x="466" y="292" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599572295723">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1440.0.1280.720@0.0.1440.900" timestamp="1594818449074" />
     <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1594461480978" />
-    <state x="466" y="292" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1596958855590" />
+    <state x="466" y="292" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1599572295723" />
     <state x="392" y="129" key="SettingsEditor" timestamp="1599448590298">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
