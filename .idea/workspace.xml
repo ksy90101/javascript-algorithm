@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efb6896b-c179-478b-8249-d32c18dfd0b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gcd_and_lcm/GcdAndLcm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gcd_and_lcm/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collatz_conjecture/CollatzConjecture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collatz_conjecture/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gcd_and_lcm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/gcd_and_lcm/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +124,8 @@
       <workItem from="1599110608956" duration="2639000" />
       <workItem from="1599140736441" duration="2598000" />
       <workItem from="1599447016544" duration="1803000" />
-      <workItem from="1599571541791" duration="1115000" />
+      <workItem from="1599571541791" duration="1325000" />
+      <workItem from="1599749315732" duration="373000" />
     </task>
     <servers />
   </component>
@@ -172,10 +174,10 @@
     <state x="103" y="0" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1596541600505" />
     <state x="88" y="23" key="new project wizard/0.23.1440.823/1440.23.2304.1273@0.23.1440.823" timestamp="1594637690331" />
     <state x="103" y="23" key="new project wizard/0.23.1680.977@0.23.1680.977" timestamp="1595995557026" />
-    <state x="449" y="229" width="782" height="789" key="search.everywhere.popup" timestamp="1595552652630">
+    <state x="449" y="229" width="782" height="789" key="search.everywhere.popup" timestamp="1599749436501">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1593531626889" />
-    <state x="449" y="229" width="782" height="789" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1595552652630" />
+    <state x="449" y="229" width="782" height="789" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1599749436501" />
   </component>
 </project>
