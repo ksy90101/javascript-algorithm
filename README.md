@@ -30,3 +30,4 @@
 - [\[프로그래머스\] 키패드 누르기](https://github.com/ksy90101/javascript-algorithm/tree/master/pushing_keypad)
 - [\[프로그래머스\] 최대공약수와 최소공배수 구하기](https://github.com/ksy90101/javascript-algorithm/tree/master/gcd_and_lcm)
 - [\[프로그래머스\] 콜라츠 추측](https://github.com/ksy90101/javascript-algorithm/tree/master/collatz_conjecture)
+- [\[프로그래머스\] 평균 구하기](https://github.com/ksy90101/javascript-algorithm/tree/master/finding_average)
