@@ -32,3 +32,4 @@
 - [\[프로그래머스\] 콜라츠 추측](https://github.com/ksy90101/javascript-algorithm/tree/master/collatz_conjecture)
 - [\[프로그래머스\] 평균 구하기](https://github.com/ksy90101/javascript-algorithm/tree/master/finding_average)
 - [\[프로그래머스\] 하샤드 수](https://github.com/ksy90101/javascript-algorithm/tree/master/harshad_number)
+- [\[프로그래머스\] 핸드폰 번호 가리기](https://github.com/ksy90101/javascript-algorithm/tree/master/hide_phone_number)
