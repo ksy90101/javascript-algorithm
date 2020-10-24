@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efb6896b-c179-478b-8249-d32c18dfd0b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hide_phone_number/HidePhoneNumber.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hide_phone_number/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pick_two_and_add/PickTwoAndAdd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pick_two_and_add/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -125,7 +125,9 @@
       <workItem from="1599447016544" duration="1803000" />
       <workItem from="1599571541791" duration="1325000" />
       <workItem from="1599749315732" duration="2111000" />
-      <workItem from="1599995702987" duration="533000" />
+      <workItem from="1599995702987" duration="1152000" />
+      <workItem from="1600699460362" duration="617000" />
+      <workItem from="1603512090176" duration="410000" />
     </task>
     <servers />
   </component>
@@ -156,15 +158,12 @@
     <state x="215" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599447552777">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.0.1280.720@0.0.1440.900" timestamp="1594818619206" />
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1593532172750" />
     <state x="215" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.949@0.23.1680.949" timestamp="1599447552777" />
-    <state x="466" y="292" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599572295723">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="466" y="289" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603512114893">
+      <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1440.0.1280.720@0.0.1440.900" timestamp="1594818449074" />
-    <state x="399" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1594461480978" />
     <state x="466" y="292" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1599572295723" />
+    <state x="466" y="289" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.956@0.23.1680.956" timestamp="1603512114893" />
     <state x="392" y="129" key="SettingsEditor" timestamp="1599448590298">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
@@ -173,15 +172,12 @@
     <state x="103" y="0" key="new project wizard" timestamp="1596541600505">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="88" y="16" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1594085628724" />
     <state x="103" y="0" key="new project wizard/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1595775426603" />
     <state x="103" y="0" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1596541600505" />
-    <state x="88" y="23" key="new project wizard/0.23.1440.823/1440.23.2304.1273@0.23.1440.823" timestamp="1594637690331" />
     <state x="103" y="23" key="new project wizard/0.23.1680.977@0.23.1680.977" timestamp="1595995557026" />
     <state x="449" y="229" width="782" height="789" key="search.everywhere.popup" timestamp="1599749436501">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1593531626889" />
     <state x="449" y="229" width="782" height="789" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1599749436501" />
   </component>
 </project>
