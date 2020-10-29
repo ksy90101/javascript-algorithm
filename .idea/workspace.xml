@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efb6896b-c179-478b-8249-d32c18dfd0b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pick_two_and_add/PickTwoAndAdd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pick_two_and_add/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/three_base_flip/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/three_base_flip/ThreeBaseFlip.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -127,7 +127,8 @@
       <workItem from="1599749315732" duration="2111000" />
       <workItem from="1599995702987" duration="1152000" />
       <workItem from="1600699460362" duration="617000" />
-      <workItem from="1603512090176" duration="410000" />
+      <workItem from="1603512090176" duration="1136000" />
+      <workItem from="1603980437286" duration="604000" />
     </task>
     <servers />
   </component>
