@@ -35,3 +35,4 @@
 - [\[프로그래머스\] 핸드폰 번호 가리기](https://github.com/ksy90101/javascript-algorithm/tree/master/hide_phone_number)
 - [\[프로그래머스\] 두 개 뽑아서 더하기](https://github.com/ksy90101/javascript-algorithm/tree/master/pick_two_and_add)
 - [\[프로그래머스\] 3진법 뒤집기](https://github.com/ksy90101/javascript-algorithm/tree/master/three_base_flip)
+- [\[프로그래머스\] 행렬의 덧셈](https://github.com/ksy90101/javascript-algorithm/tree/master/matrix_addition)
