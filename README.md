@@ -39,3 +39,4 @@
 - [\[프로그래머스\] x만큼 간격이 있는 n개의 숫자](https://github.com/ksy90101/javascript-algorithm/tree/master/n_numbers_spaced_by_x)
 - [\[프로그래머스\] 직사각형 별찍기](https://github.com/ksy90101/javascript-algorithm/tree/master/rectangular_star)
 - [\[프로그래머스\] 에산](https://github.com/ksy90101/javascript-algorithm/tree/master/budget)
+- [\[프로그래머스\] 비밀지도](https://github.com/ksy90101/javascript-algorithm/tree/master/secret_map)
