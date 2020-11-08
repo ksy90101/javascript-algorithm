@@ -40,3 +40,5 @@
 - [\[프로그래머스\] 직사각형 별찍기](https://github.com/ksy90101/javascript-algorithm/tree/master/rectangular_star)
 - [\[프로그래머스\] 에산](https://github.com/ksy90101/javascript-algorithm/tree/master/budget)
 - [\[프로그래머스\] 비밀지도](https://github.com/ksy90101/javascript-algorithm/tree/master/secret_map)
+- [\[프로그래머스\] 내적](https://github.com/ksy90101/javascript-algorithm/tree/master/dot_product)
+- [\[프로그래머스\] 실패율](https://github.com/ksy90101/javascript-algorithm/tree/master/failure_rate)
