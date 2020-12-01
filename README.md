@@ -47,3 +47,4 @@
 - [\[프로그래머스\] 프린터](https://github.com/ksy90101/javascript-algorithm/tree/master/printer)
 - [\[프로그래머스\] 스킬트리](https://github.com/ksy90101/javascript-algorithm/tree/master/skill_tree)
 - [\[프로그래머스\] 기능개발](https://github.com/ksy90101/javascript-algorithm/tree/master/function_development)
+- [\[프로그래머스\] 멀쩡한 사각형](https://github.com/ksy90101/javascript-algorithm/tree/master/fine_square)
