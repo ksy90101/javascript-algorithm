@@ -49,3 +49,4 @@
 - [\[프로그래머스\] 기능개발](https://github.com/ksy90101/javascript-algorithm/tree/master/function_development)
 - [\[프로그래머스\] 멀쩡한 사각형](https://github.com/ksy90101/javascript-algorithm/tree/master/fine_square)
 - [\[프로그래머스\] 다리를 지나는 트럭](https://github.com/ksy90101/javascript-algorithm/tree/master/truck_passing_the_bridge)
+- [\[프로그래머스\] 삼각 달팽이](https://github.com/ksy90101/javascript-algorithm/tree/master/triangular_snail)
